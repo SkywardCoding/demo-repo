@@ -1,1 +1,2 @@
-# A simple demo repo for learning git and github.
+# Demo
+A simple demo repo for learning git and github.
