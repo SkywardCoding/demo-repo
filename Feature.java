@@ -1,3 +1,3 @@
 public class Feature {
-    // a totally useless class again
+    // aaaand it's still useless
 }
